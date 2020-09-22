@@ -1,0 +1,12 @@
+name: JitterPVP
+version: ${project.version}
+main: com.reflexian.jitterpvp.JitterPVP
+description: A plugin made for JitterPVP created by Raymond#0001
+website: Reflexian.com
+author: Raymond#0001
+depend:
+  - HolographicDisplays
+commands:
+  jitterreload:
+    usage: /<command>
+    description: Reloads the JitterPVP Config file.

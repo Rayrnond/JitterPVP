@@ -1,0 +1,35 @@
+#
+#
+#    ░░░░░██╗██╗████████╗████████╗███████╗██████╗░██████╗░██╗░░░██╗██████╗░
+#    ░░░░░██║██║╚══██╔══╝╚══██╔══╝██╔════╝██╔══██╗██╔══██╗██║░░░██║██╔══██╗
+#    ░░░░░██║██║░░░██║░░░░░░██║░░░█████╗░░██████╔╝██████╔╝╚██╗░██╔╝██████╔╝
+#    ██╗░░██║██║░░░██║░░░░░░██║░░░██╔══╝░░██╔══██╗██╔═══╝░░╚████╔╝░██╔═══╝░
+#    ╚█████╔╝██║░░░██║░░░░░░██║░░░███████╗██║░░██║██║░░░░░░░╚██╔╝░░██║░░░░░
+#    ░╚════╝░╚═╝░░░╚═╝░░░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░░░░╚═╝░░░╚═╝░░░░░
+#
+#
+# Made by Raymond#0001, from Reflexian.com
+# Support Discord Server: https://discord.gg/9fhmmxc
+#
+#
+
+Golden-Apple:
+  effect: SPEED # Must be in all CAPS and must be a valid effect !!!
+  length: 10 # IN SECONDS
+  amplifier: 2 # MUST BE 1 - 255
+
+  effect2: STRENGTH # Must be in all CAPS and must be a valid effect !!!
+  length2: 10 # IN SECONDS
+  amplifier2: 2 # MUST BE 1 - 255
+
+  message: "§eYou have eaten a god apple and received §bSPEED III §efor 10 seconds!"
+
+Clear-Items:
+  First-Line: "§cRemoving dropped items"
+  Second-Line: "§f§l" # WILL ALWAYS END WITH THE TIME LEFT !!! Ex. 15
+  Range: 2 # Blocks around the death location that the items are removed.
+
+Message-Announcer:
+  message: "§eHave you joined our discord? §7https://discord.gg/JH4PtW"
+  interval: 900 # IN SECONDS 300 = 5m, 600 = 10m, 900 = 15m
+
